@@ -9,4 +9,8 @@ Studying Deep Learning
 
 ## MLschool
 1. predicting_house_price_in_Boston
-   - 데이터 학습
+   - Regression
+   - +hidden layer
+2. practice_iris
+   - Classification
+   - +hidden layer
