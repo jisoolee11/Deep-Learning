@@ -6,6 +6,8 @@ Studying Deep Learning
    - sigmoid 사용
 2. Iris_Multi_Classfication
    - softmax 사용
+3. Ultrasonic_Minerals
+   - k-fold cross validation
 
 ## MLschool
 1. predicting_house_price_in_Boston
