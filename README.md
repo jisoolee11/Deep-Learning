@@ -18,3 +18,6 @@ Studying Deep Learning
 2. practice_iris
    - Classification
    - +hidden layer
+3. flatten_layer_image
+   - Classification
+   - +flatten layer
