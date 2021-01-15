@@ -17,7 +17,10 @@ Studying Deep Learning
    - CNN
 7. review_NLP
    - NLP
-
+8. Reuters_News
+   - LSTM
+9. movie_review
+   - LSTM + CNN
 
 ## MLschool
 1. predict_lemonade_sales
