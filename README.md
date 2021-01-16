@@ -33,3 +33,5 @@ Studying Deep Learning
 4. flatten_layer_image
    - Classification
    - +flatten layer
+5. practice_Conv2D
+   - Convolution layer
