@@ -35,3 +35,7 @@ Studying Deep Learning
    - +flatten layer
 5. practice_Conv2D
    - Convolution layer
+6. practice_pooling_layer
+   - MaxPool2D
+7. practice_LeNet5
+   - LeNet
