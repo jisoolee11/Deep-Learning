@@ -12,7 +12,7 @@ Studying Deep Learning
    - model update, save, stop
 5. predicting_house_price_in_Boston
    - linear regression
-   - 오류??
+   - 오류 해결(seed 값 X)
 6. MNIST
    - CNN
 7. review_NLP
@@ -25,6 +25,9 @@ Studying Deep Learning
     - GAN
 11. autoencoder
     - AE
+12. ~~Data_Augmentaion
+    - CNN
+    - 오류나는데 모르겠음
 
 ## MLschool
 1. predict_lemonade_sales
@@ -43,3 +46,6 @@ Studying Deep Learning
    - MaxPool2D
 7. practice_LeNet5
    - LeNet
+8. my_image
+
+`https://cert.yah.ac/ml-cert.html?d=2021.1.18&n=이지수&t=2&a=머신러닝야학2기`
