@@ -21,6 +21,10 @@ Studying Deep Learning
    - LSTM
 9. movie_review
    - LSTM + CNN
+10. GAN_model
+    - GAN
+11. autoencoder
+    - AE
 
 ## MLschool
 1. predict_lemonade_sales
