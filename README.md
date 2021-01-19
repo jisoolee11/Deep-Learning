@@ -25,7 +25,7 @@ Studying Deep Learning
     - GAN
 11. autoencoder
     - AE
-12. ~~Data_Augmentaion
+12. ~~Data_Augmentaion~~
     - CNN
     - 오류나는데 모르겠음
 
