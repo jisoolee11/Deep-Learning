@@ -49,3 +49,6 @@ Studying Deep Learning
 8. my_image
 
 `https://cert.yah.ac/ml-cert.html?d=2021.1.18&n=이지수&t=2&a=머신러닝야학2기`
+
+## Transcription
+1. 2020_DACON_CUP
